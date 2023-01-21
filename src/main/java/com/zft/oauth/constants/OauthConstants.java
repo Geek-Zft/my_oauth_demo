@@ -15,4 +15,5 @@ public final class OauthConstants {
     public static final String ACCESS_TOKEN_URL = "https://github.com/login/oauth/access_token";
     // 从github获取授权用户信息
     public static final String USER_URL = "https://api.github.com/user";
+    public static final String ZFT = "https://api.github.com/user";
 }
